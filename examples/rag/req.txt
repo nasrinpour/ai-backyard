@@ -3,4 +3,4 @@ qdrant-client==1.11.3 # Local vector database
 pandas==2.2.2
 python-dotenv==1.0.1 # To handle secrets such as API keys
 openai==1.48.0
-pip install ollama
+ollama
